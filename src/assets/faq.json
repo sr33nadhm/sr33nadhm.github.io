@@ -1,0 +1,26 @@
+[
+    {
+        "q": "About myself. How I became a developer?",
+        "a": "I am a full stack developer with 3 years of experience. I chose the software development because of the potential it brings. I saw the changes it can bring to our life first-hand. I was lucky to witness the digital revolution happened where I am from and I wanted to be a part of it. I love solving real-world problems. I have seen how technology can make an impact to businesses, acquire more clients. Knowing the fact that a full stack developer can single handedly bring digital presence to a small business or help take the business international, is what keeps me going. We can talk more about that when we connect !"
+    },
+    {
+        "q": "Schooling and training:",
+        "a": "I am a master's graduate in Computer Applications. I received corporate training from Infosys' Global Education Center, which is the largest corporate education center in the world. I keep myself up-to-date with technology through certifications and tutorials."
+    },
+    {
+        "q": "Experience and projects:",
+        "a": "I have worked as a full stack developer for more than 3 years now, handled projects with different tech stacks and clients from multiple countries. I was in media domain for first two years, where I mostly worked with OTT or video streaming platforms. Currently I am handling an internal project for IBM. I have experience working with React.js, Node.js, Java Spring Boot and Angular."
+    },
+    {
+        "q": "Personality traits:",
+        "a": "My self-observation is that I am quick to adapt and I had multiple instances where it helped me to bring more value to the projects I am working on. I do like a work environment where I get a choice on tech stacks or libraries. I am capable to lead a team of developers, currently I am leading the team of 4, including me."
+    },
+    {
+        "q": "Tools and technologies interested in:",
+        "a": "I love React -Node ecosystem. I specialize in Express - REST combination. My preferred NoSQL DB is Mongo. I can work with other tools or can learn using new tools as well. Currently I am working on a really old Ext.JS library in my current project. So, comfortable with the older libraries and frameworks as well"
+    },
+    {
+        "q": "Hobbies & Interests",
+        "a": "I spend most of my time checking out trending tech, or catching up with a tv-series or soccer sessions with friends."
+    }
+]
