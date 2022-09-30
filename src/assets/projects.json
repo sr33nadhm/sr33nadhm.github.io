@@ -1,10 +1,10 @@
 [
     {
         "title": "Metamask Integration",
-        "link": "#",
+        "link": "https://sr33nadhm.github.io/metamask-int/",
         "image": "https://logowik.com/content/uploads/images/metamask4453.logowik.com.webp",
         "desc": "This project is to simulate a secure wallet based transaction, signed through the Metamask wallet. Before you begin, make sure that Metamask is installed in your browser. Once you click on initiate transaction, a prompt will appear in the Metamask extension to sign the transaction through your secure wallet.",
-        "done": false
+        "done": true
     },
     {
         "title": "Geolocation APIs",
