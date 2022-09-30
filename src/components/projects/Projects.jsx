@@ -35,7 +35,7 @@ function Projects() {
                                     {
                                         item.done === true ?
                                             <a alt={item.title} href={item.link} style={{ textDecoration: "none" }}>
-                                                <Button size="small" variant='outlined'>View</Button>
+                                                <Button size="small" variant='contained'>View</Button>
                                             </a>
                                             :
                                             <Button size="small" variant="outlined" endIcon={<RotateRight />}>
