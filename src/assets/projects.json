@@ -7,17 +7,17 @@
         "done": true
     },
     {
+        "title": "Payment Gateway Integration",
+        "link": "https://sr33nadhm.github.io/payment-gateway/",
+        "image": "https://www.abaxsoft.com/blog/wp-content/uploads/2022/02/payment-gateway-1536x946.png",
+        "desc": "This project is to simulate a secure transaction through a payment gateway, like Razorpay. The transaction simulated here is a dummy one and no details are stored anywhere. But, please stick to dummy data. Once you click on initiate transaction, a prompt will appear from Razorpay and you can proceed.",
+        "done": true
+    },
+    {
         "title": "Geolocation APIs",
         "link": "#",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Intro_Image.max-1000x1000.png",
         "desc": "This project is to showcase geo location based activities, such as searching for places, locating nearby shops and other places. Before you begin, make sure that you allow location permission on your browser, so that the application can provide accurate information. This application makes use of Google Maps and Google Places API, to provide customized results for the user.",
-        "done": false
-    },
-    {
-        "title": "Payment Gateway Integration",
-        "link": "#",
-        "image": "https://www.abaxsoft.com/blog/wp-content/uploads/2022/02/payment-gateway-1536x946.png",
-        "desc": "This project is to simulate a secure transaction through a payment gateway, like Razorpay. The transaction simulated here is a dummy one and no details are stored anywhere. But, please stick to dummy data. Once you click on initiate transaction, a prompt will appear from Razorpay and you can proceed.",
         "done": false
     }
 ]
