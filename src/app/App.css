@@ -75,6 +75,32 @@ html {
   margin: 30px auto;
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat();
+}
+
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  color: black;
+}
+
+.more-projects-card {
+  box-shadow: 0px 10px 5px -7px rgba(0 0 0 / 20%), 10px 0px 10px -7px rgba(0 0 0 / 20%),
+    -10px 0px 10px -7px rgba(0 0 0 / 20%) !important;
+  border-radius: 10px !important;
+  margin-top: 10px !important;
+}
+
 @media (max-width: 768px) {
   .section-col,
   .section-row {
