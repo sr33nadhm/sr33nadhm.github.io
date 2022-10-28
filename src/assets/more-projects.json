@@ -2,8 +2,17 @@
     {
         "title": "OMDB Movie Details",
         "link": "https://sr33nadhm.github.io/omdb-redux/",
+        "code": "https://github.com/sr33nadhm/omdb-redux",
         "image": "https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
         "desc": "This project is to showcase my react and redux skills. I have used TypeScript along with React here. Also, this project consumes the REST Apis from Open Movie Database and it can be used for searching and viewing details of specific movies and TV shows.",
+        "done": true
+    },
+    {
+        "title": "Product Search",
+        "link": "https://sr33nadhm.github.io/products-mobx/",
+        "code": "https://github.com/sr33nadhm/products-mobx",
+        "image": "https://miro.medium.com/max/720/1*ynb66jXSX2dn-foOUrplmA.png",
+        "desc": "This project is to showcase my React and MobX skills. I have used TypeScript along with React here. This project utilizes MobX state management tools to handle product search, filter and displaying",
         "done": true
     }
 ]

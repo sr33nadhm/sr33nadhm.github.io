@@ -2,6 +2,7 @@
     {
         "title": "Metamask Integration",
         "link": "https://sr33nadhm.github.io/metamask-int/",
+        "code": "https://github.com/sr33nadhm/metamask-int",
         "image": "https://logowik.com/content/uploads/images/metamask4453.logowik.com.webp",
         "desc": "This project is to simulate a secure wallet based transaction, signed through the Metamask wallet. Before you begin, make sure that Metamask is installed in your browser. Once you click on initiate transaction, a prompt will appear in the Metamask extension to sign the transaction through your secure wallet.",
         "done": true
@@ -9,6 +10,7 @@
     {
         "title": "Payment Gateway Integration",
         "link": "https://sr33nadhm.github.io/payment-gateway/",
+        "code": "https://github.com/sr33nadhm/payment-gateway",
         "image": "https://www.abaxsoft.com/blog/wp-content/uploads/2022/02/payment-gateway-1536x946.png",
         "desc": "This project is to simulate a secure transaction through a payment gateway, like Razorpay. The transaction simulated here is a dummy one and no details are stored anywhere. But, please stick to dummy data. Once you click on initiate transaction, a prompt will appear from Razorpay and you can proceed.",
         "done": true

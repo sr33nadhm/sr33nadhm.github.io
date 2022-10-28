@@ -101,6 +101,18 @@ html {
   margin-top: 10px !important;
 }
 
+.btns-row {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.project-card-header span {
+  color: black;
+  font-weight: 600;
+}
+
 @media (max-width: 768px) {
   .section-col,
   .section-row {

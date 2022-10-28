@@ -64,6 +64,7 @@ function Profile() {
                 <Typography variant="h6" component="h6" sx={{
                     fontWeight: 600,
                     textDecoration: 'none',
+                    color: "#817a7a"
                 }}>
                     About me
                 </Typography>
@@ -73,11 +74,12 @@ function Profile() {
                     textDecoration: 'none',
                     textAlign: "justify"
                 }}>
-                    I am a Full Stack developer with industrial experience in building websites and web applications. I specialize in React.js and Node.js, with professional experience working with Java Spring Boot, NodeJS and ExpressJS on Back End side and Angular, ReactJS on Front End. I also have experience working with web3 applications and different blockchain networks.
+                    I am a Full Stack developer with industrial experience in building websites and web applications. I specialize in React.js and Node.js, with professional experience working with Java Spring Boot, Node.js and Express.js on Back End side and Angular, React.js on Front End. I also have experience working with web3 applications and different blockchain networks.
                 </Typography>
                 <Typography variant="h6" component="h6" sx={{
                     fontWeight: 600,
                     textDecoration: 'none',
+                    color: "#817a7a",
                     marginTop: "20px"
                 }}>
                     Primary Skills
@@ -101,7 +103,7 @@ function Profile() {
                                     >
                                         React.js
                                     </Typography>
-                                    {" — Working with the UI/UX team and implementing designs. In-depth knowledge of JavaScript, CSS, HTML, and front-end languages. Knowledge of REACT tools including React.js, Webpack and Redux"}
+                                    {" — Working with the UI/UX team and implementing designs. In-depth knowledge of JavaScript, CSS, HTML, and familiar with TypeScript. Knowledge of REACT tools including React.js, Webpack, Redux and MobX."}
                                     <br /><br />
                                     <Typography
                                         sx={{ display: 'inline' }}
@@ -111,7 +113,7 @@ function Profile() {
                                     >
                                         Angular
                                     </Typography>
-                                    {" — Previous experience working as Angular developer. In-depth knowledge of the framework and CLI"}
+                                    {" — Previous experience working as Angular developer. In-depth knowledge of the framework and CLI."}
                                 </>
                             }
                         />
@@ -144,7 +146,7 @@ function Profile() {
                                     >
                                         Java Springboot
                                     </Typography>
-                                    {" — 3 years of experience in Springboot. Well versed with MVC architecture, dependency injection and IoC"}
+                                    {" — 3 years of experience in Springboot. Well versed with MVC architecture, dependency injection and IoC. Familiar with Microservices design, JPA, jUnit and message queues."}
                                 </>
                             }
                         />
