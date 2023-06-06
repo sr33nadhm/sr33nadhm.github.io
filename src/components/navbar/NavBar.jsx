@@ -7,7 +7,7 @@ import Container from '@mui/material/Container';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
-import Resume from '../../assets/Sreenadh _M-Fullstack-Resume.pdf'
+import Resume from '../../assets/Sreenadh_M-Java_Fullstack-Resume.pdf'
 
 function NavBar() {
     return (
@@ -55,7 +55,7 @@ function NavBar() {
 
                     <Box sx={{ flexGrow: 0 }}>
                         <Tooltip title="Download resume">
-                            <a href={Resume} download="Sreenadh _M-Fullstack-Resume.pdf" rel="noreferrer" target='_blank' style={{ textDecoration: 'none' }}>
+                            <a href={Resume} download="Sreenadh_M-Java_Fullstack-Resume.pdf" rel="noreferrer" target='_blank' style={{ textDecoration: 'none' }}>
                                 <Button variant="outlined" endIcon={<FileDownloadOutlinedIcon />}>
                                     Resume
                                 </Button>
