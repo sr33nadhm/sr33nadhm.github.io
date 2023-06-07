@@ -7,7 +7,7 @@ import Container from '@mui/material/Container';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
-import Resume from '../../assets/Sreenadh_M-Java_Fullstack-Resume.pdf'
+import Resume from '../../assets/Sreenadh_Madappura-Java_Fullstack-Resume.pdf'
 
 function NavBar() {
     return (
