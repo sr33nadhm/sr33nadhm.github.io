@@ -85,7 +85,7 @@ function Profile() {
                     Primary Skills
                 </Typography>
                 <List sx={{ width: '100%', bgcolor: 'background.paper' }}>
-                    <Divider variant="inset" component="li" />
+                    <Divider component="li" />
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
                             <Avatar sx={{ width: 90, height: 90 }} alt="UI" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/RESPONSIVE-DESIGN-512.png" />
@@ -95,6 +95,7 @@ function Profile() {
                             primary="Frontend Development"
                             secondary={
                                 <>
+                                    <Divider sx={{ marginBottom: "10px" }} />
                                     <Typography
                                         sx={{ display: 'inline' }}
                                         component="span"
@@ -118,7 +119,7 @@ function Profile() {
                             }
                         />
                     </ListItem>
-                    <Divider variant="inset" component="li" />
+                    <Divider component="li" />
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
                             <Avatar sx={{ width: 90, height: 90 }} alt="Backend" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/SOFTWARE-ENGINEER-512.png" />
@@ -128,6 +129,7 @@ function Profile() {
                             primary="Backend Development"
                             secondary={
                                 <>
+                                    <Divider sx={{ marginBottom: "10px" }} />
                                     <Typography
                                         sx={{ display: 'inline' }}
                                         component="span"
@@ -151,7 +153,7 @@ function Profile() {
                             }
                         />
                     </ListItem>
-                    <Divider variant="inset" component="li" />
+                    <Divider component="li" />
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
                             <Avatar sx={{ width: 90, height: 90 }} alt="SQL" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/TABLE-512.png" />
@@ -161,6 +163,7 @@ function Profile() {
                             primary="Database Management"
                             secondary={
                                 <>
+                                    <Divider sx={{ marginBottom: "10px" }} />
                                     <Typography
                                         sx={{ display: 'inline' }}
                                         component="span"
@@ -184,7 +187,7 @@ function Profile() {
                             }
                         />
                     </ListItem>
-                    <Divider variant="inset" component="li" />
+                    <Divider component="li" />
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
                             <Avatar sx={{ width: 90, height: 90 }} alt="SQL" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/CLOUD-CODING-512.png" />
@@ -194,6 +197,7 @@ function Profile() {
                             primary="Cloud Technologies"
                             secondary={
                                 <>
+                                    <Divider sx={{ marginBottom: "10px" }} />
                                     <Typography
                                         sx={{ display: 'inline' }}
                                         component="span"
@@ -216,7 +220,7 @@ function Profile() {
                             }
                         />
                     </ListItem>
-                    <Divider variant="inset" component="li" />
+                    <Divider component="li" />
                 </List>
             </div>
         </section >
