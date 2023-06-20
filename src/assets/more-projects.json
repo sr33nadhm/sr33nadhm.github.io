@@ -12,7 +12,14 @@
         "link": "https://sr33nadhm.github.io/products-mobx/",
         "code": "https://github.com/sr33nadhm/products-mobx",
         "image": "https://miro.medium.com/max/720/1*ynb66jXSX2dn-foOUrplmA.png",
-        "desc": "This project is to showcase my React and MobX skills. I have used TypeScript along with React here. This project utilizes MobX state management tools to handle product search, filter and displaying",
+        "desc": "This project aims to demonstrate my proficiency in React and MobX. TypeScript is employed alongside React. The project leverages MobX state management for handling product search, filtering, and display. It incorporates real-time search functionality.",
         "done": true
+    },
+    {
+        "title": "Geolocation APIs",
+        "link": "#",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Intro_Image.max-1000x1000.png",
+        "desc": "The purpose of this project is to demonstrate location-based features, including place search and locating nearby shops and attractions. The application utilizes the Google Maps and Google Places API to offer personalized routes and directions to the user",
+        "done": false
     }
 ]

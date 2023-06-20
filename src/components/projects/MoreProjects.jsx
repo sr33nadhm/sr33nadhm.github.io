@@ -53,9 +53,11 @@ function MoreProjects() {
                                                             </a>
                                                         </div>
                                                         :
-                                                        <Button size="small" variant="outlined" endIcon={<RotateRight />}>
-                                                            In Progress
-                                                        </Button>
+                                                        <div className='btns-row'>
+                                                            <Button size="small" variant="outlined" endIcon={<RotateRight />}>
+                                                                In Progress
+                                                            </Button>
+                                                        </div>
                                                 }
                                             </CardActions>
                                         </Card>

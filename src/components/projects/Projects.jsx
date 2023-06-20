@@ -23,7 +23,7 @@ function Projects() {
                                 />
                                 <CardMedia
                                     component="img"
-                                    height="150"
+                                    height="200"
                                     image={item.image}
                                     alt={item.title}
                                 />

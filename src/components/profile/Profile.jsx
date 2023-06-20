@@ -74,7 +74,7 @@ function Profile() {
                     textDecoration: 'none',
                     textAlign: "justify"
                 }}>
-                    I am a Full Stack developer with industrial experience in building websites and web applications. I specialize in React.js and Node.js, with professional experience working with Java Spring Boot, Node.js and Express.js on Back End side and Angular, React.js on Front End. I also have experience working with web3 applications and different blockchain networks.
+                    I am a Full Stack developer with industrial experience in building websites and web applications. I specialize in Angular and Java Spring Boot, with professional experience working with Java Spring Boot, Node.js and Express.js on Back End side and Angular, React.js on Front End.
                 </Typography>
                 <Typography variant="h6" component="h6" sx={{
                     fontWeight: 600,
@@ -101,9 +101,9 @@ function Profile() {
                                         variant="body2"
                                         color="text.primary"
                                     >
-                                        React.js
+                                        Angular
                                     </Typography>
-                                    {" — Working with the UI/UX team and implementing designs. In-depth knowledge of JavaScript, CSS, HTML, and familiar with TypeScript. Knowledge of REACT tools including React.js, Webpack, Redux and MobX."}
+                                    {" — Previous experience working as Angular developer. In-depth knowledge of the framework and CLI. In-depth understanding of Angular components, their lifecycle hooks, data binding, event handling, routing and navigation, state management and handling unit tests."}
                                     <br /><br />
                                     <Typography
                                         sx={{ display: 'inline' }}
@@ -111,9 +111,9 @@ function Profile() {
                                         variant="body2"
                                         color="text.primary"
                                     >
-                                        Angular
+                                        React.js
                                     </Typography>
-                                    {" — Previous experience working as Angular developer. In-depth knowledge of the framework and CLI."}
+                                    {" — Working with the UI/UX team and implementing designs. In-depth knowledge of JavaScript, CSS, HTML, and familiar with TypeScript. Knowledge of REACT tools including React.js, Webpack, Redux and MobX."}
                                 </>
                             }
                         />
@@ -134,9 +134,9 @@ function Profile() {
                                         variant="body2"
                                         color="text.primary"
                                     >
-                                        Node.js
+                                        Java Springboot
                                     </Typography>
-                                    {" — Developing high-performance applications by writing testable, reusable, and efficient code. Implementing effective security protocols, data protection measures, and storage solutions. Running diagnostic tests, repairing defects, and providing technical support."}
+                                    {" — 4+ years of experience in Springboot. Well versed with MVC architecture, dependency injection and IoC. Familiar with Microservices design, JPA, jUnit and message queues. Developed and deployed features for multiple projects for different clients in Java Spring Boot."}
                                     <br /><br />
                                     <Typography
                                         sx={{ display: 'inline' }}
@@ -144,9 +144,9 @@ function Profile() {
                                         variant="body2"
                                         color="text.primary"
                                     >
-                                        Java Springboot
+                                        Node.js
                                     </Typography>
-                                    {" — 3 years of experience in Springboot. Well versed with MVC architecture, dependency injection and IoC. Familiar with Microservices design, JPA, jUnit and message queues."}
+                                    {" — Developing high-performance applications by writing testable, reusable, and efficient code. Implementing effective security protocols, data protection measures, and storage solutions. Running diagnostic tests, repairing defects, and providing technical support."}
                                 </>
                             }
                         />
@@ -169,7 +169,7 @@ function Profile() {
                                     >
                                         SQL
                                     </Typography>
-                                    {" — MySQL, PostgreSQL, DB2. Familiar with middleware and ORM tools like Hibernate, Objection and Knex.js"}
+                                    {" — MySQL, PostgreSQL, DB2, Oracle DB. Familiar with middleware and ORM tools like Hibernate, Objection and Knex.js"}
                                     <br />
                                     <Typography
                                         sx={{ display: 'inline' }}

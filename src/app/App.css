@@ -80,18 +80,21 @@ html {
   grid-template-columns: repeat();
 }
 
-.slick-prev {
-  left: 3% !important;
-  z-index: 1;
-}
+.slick-prev,
 .slick-next {
-  right: 3% !important;
   z-index: 1;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid rgba(128, 128, 128, 0.5);
 }
 
 .slick-prev::before,
 .slick-next::before {
-  color: black;
+  color: rgba(0, 0, 0, 0.404);
+  height: 50px;
+  height: 50px;
+  width: 50px;
 }
 
 .more-projects-card {
@@ -118,6 +121,12 @@ html {
   .section-row {
     min-width: 100%;
   }
+  .slick-prev {
+    left: -20px !important;
+  }
+  .slick-next {
+    right: -20px !important;
+  }
 }
 
 @media (min-width: 769px) {
@@ -129,5 +138,11 @@ html {
   }
   .section-row {
     width: 81vw;
+  }
+  .slick-prev {
+    left: -50px !important;
+  }
+  .slick-next {
+    right: -50px !important;
   }
 }

@@ -1,13 +1,5 @@
 [
     {
-        "title": "Metamask Integration",
-        "link": "https://sr33nadhm.github.io/metamask-int/",
-        "code": "https://github.com/sr33nadhm/metamask-int",
-        "image": "https://logowik.com/content/uploads/images/metamask4453.logowik.com.webp",
-        "desc": "This project is to simulate a secure wallet based transaction, signed through the Metamask wallet. Before you begin, make sure that Metamask is installed in your browser. Once you click on initiate transaction, a prompt will appear in the Metamask extension to sign the transaction through your secure wallet.",
-        "done": true
-    },
-    {
         "title": "Payment Gateway Integration",
         "link": "https://sr33nadhm.github.io/payment-gateway/",
         "code": "https://github.com/sr33nadhm/payment-gateway",
@@ -16,10 +8,19 @@
         "done": true
     },
     {
-        "title": "Geolocation APIs",
-        "link": "#",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Intro_Image.max-1000x1000.png",
-        "desc": "This project is to showcase geo location based activities, such as searching for places, locating nearby shops and other places. Before you begin, make sure that you allow location permission on your browser, so that the application can provide accurate information. This application makes use of Google Maps and Google Places API, to provide customized results for the user.",
-        "done": false
+        "title": "Activity Scheduler",
+        "link": "https://sr33nadhm.github.io/activity-scheduler/",
+        "code": "https://github.com/sr33nadhm/activity-scheduler",
+        "image": "https://as1.ftcdn.net/v2/jpg/04/46/95/98/1000_F_446959837_ud38y0tq3BLXku5g72xfD4JT087Cz5R7.jpg",
+        "desc": "This project is to showcase a small activity scheduler, which uses takes in user input and schedule the task. Users can edit or remove the tasks. It also has a weather summary, which consumes open weather map API. Styling is done using Tailwind CSS, Material UI and Semantic UI. A Dockerfile is added that helps quick deployment.",
+        "done": true
+    },
+    {
+        "title": "Metamask Integration",
+        "link": "https://sr33nadhm.github.io/metamask-int/",
+        "code": "https://github.com/sr33nadhm/metamask-int",
+        "image": "https://logowik.com/content/uploads/images/metamask4453.logowik.com.webp",
+        "desc": "This project is to simulate a secure wallet based transaction, signed through the Metamask wallet. Before you begin, make sure that Metamask is installed in your browser. Once you click on initiate transaction, a prompt will appear in the Metamask extension to sign the transaction through your secure wallet.",
+        "done": true
     }
 ]
