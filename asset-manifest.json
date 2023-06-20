@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b65b2de5.css",
-    "main.js": "/static/js/main.cd1cc399.js",
+    "main.css": "/static/css/main.3dc8852f.css",
+    "main.js": "/static/js/main.d9014fc8.js",
     "static/media/propfile-pic-min.jpg": "/static/media/propfile-pic-min.8f42669d5e4741b4a965.jpg",
     "static/media/Sreenadh_Madappura-Java_Fullstack-Resume.pdf": "/static/media/Sreenadh_Madappura-Java_Fullstack-Resume.6de5e209a6556bc446c2.pdf",
     "index.html": "/index.html",
-    "main.b65b2de5.css.map": "/static/css/main.b65b2de5.css.map",
-    "main.cd1cc399.js.map": "/static/js/main.cd1cc399.js.map"
+    "main.3dc8852f.css.map": "/static/css/main.3dc8852f.css.map",
+    "main.d9014fc8.js.map": "/static/js/main.d9014fc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b65b2de5.css",
-    "static/js/main.cd1cc399.js"
+    "static/css/main.3dc8852f.css",
+    "static/js/main.d9014fc8.js"
   ]
 }
