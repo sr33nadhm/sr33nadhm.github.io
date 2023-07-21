@@ -5,12 +5,6 @@ function FAQ() {
     return (
         <section className="section-row">
             <div className="faq">
-                <Typography variant="h5" component="h5" sx={{
-                    fontWeight: 600,
-                    textDecoration: 'none',
-                }}>
-                    More information
-                </Typography>
                 <div className="q-n-a mt-3">
                     {
                         faq.map((item, index) => {

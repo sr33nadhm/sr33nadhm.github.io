@@ -1,5 +1,4 @@
 import { Avatar, Button, IconButton, Typography } from "@mui/material";
-import dp from "../../assets/propfile-pic-min.jpg";
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import Divider from '@mui/material/Divider';
@@ -12,7 +11,7 @@ function Profile() {
         <section className="section-col py-5">
             <Avatar
                 alt="Sreenadh M"
-                src={dp}
+                src="https://avatars.githubusercontent.com/u/61613230"
                 sx={{ width: 250, height: 250 }}
             />
             <div className="social-media">
