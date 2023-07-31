@@ -12,7 +12,7 @@
         "link": "https://sr33nadhm.github.io/products-mobx/",
         "code": "https://github.com/sr33nadhm/products-mobx",
         "image": "https://miro.medium.com/max/720/1*ynb66jXSX2dn-foOUrplmA.png",
-        "desc": "This project aims to demonstrate my proficiency in React and MobX. TypeScript is employed alongside React. The project leverages MobX state management for handling product search, filtering, and display. It incorporates real-time search functionality.",
+        "desc": "This project aims to demonstrate my proficiency in React and MobX. TypeScript is used along with React. The project leverages MobX state management for handling product search, filtering, and display. It implements a real-time search functionality.",
         "done": true
     },
     {
