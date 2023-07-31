@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.3dc8852f.css",
-    "main.js": "/static/js/main.18275b6d.js",
-    "static/media/Sreenadh_Madappura-Java_Fullstack-Resume.pdf": "/static/media/Sreenadh_Madappura-Java_Fullstack-Resume.6de5e209a6556bc446c2.pdf",
+    "main.js": "/static/js/main.ebc76ce7.js",
     "index.html": "/index.html",
     "main.3dc8852f.css.map": "/static/css/main.3dc8852f.css.map",
-    "main.18275b6d.js.map": "/static/js/main.18275b6d.js.map"
+    "main.ebc76ce7.js.map": "/static/js/main.ebc76ce7.js.map"
   },
   "entrypoints": [
     "static/css/main.3dc8852f.css",
-    "static/js/main.18275b6d.js"
+    "static/js/main.ebc76ce7.js"
   ]
 }
